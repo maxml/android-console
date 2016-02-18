@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Console</string>
+    <string name="intro_message">Intro Message</string>
+</resources>
